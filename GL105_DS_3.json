@@ -2,8 +2,8 @@
 {
   "devices": {
     "GL105_DS_3": {
-      "version": "1.5",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL105_DS_3/main/GL105_DS_3_v1.5.bin",
+      "version": "1.6",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL105_DS_3/main/GL105_DS_3_v1.6.bin",
       "force": false
     }
   }
